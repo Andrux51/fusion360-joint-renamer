@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "3ef54728-0612-4a49-bcc3-96d9ff249482",
+    "author": "Andy Martin",
+    "description": {
+        "": "On Document Save: Automatically names ALL joints (including in linked designs) using names of joined components"
+    },
+    "version": "1",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
